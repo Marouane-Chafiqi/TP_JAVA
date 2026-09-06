@@ -9,15 +9,13 @@
 - Chaque sous-classe redéfinit également l'affichage des détails pour montrer ses informations propres, tout en gardant le principe général hérité de la classe parente.
 - Cet exercice illustre l'idée centrale de l'héritage : éviter de réécrire le code commun, et ne redéfinir que ce qui change réellement d'un type de compte à l'autre.
 
-![alt text](1.png)
+<img width="1280" height="668" alt="1" src="https://github.com/user-attachments/assets/a30d6037-5e84-462e-aea9-670316c5798e" />
 
-![alt text](12.png)
+<img width="1280" height="674" alt="12" src="https://github.com/user-attachments/assets/3a127324-ccc1-41ac-8652-f7c084be94a1" />
 
-![alt text](13.png)
+<img width="1278" height="670" alt="13" src="https://github.com/user-attachments/assets/fd37a122-39f6-476a-aaa9-a482b18244ba" />
 
-![alt text](14.png)
-
-[text](../../../../../Desktop/TP_JAVA/TP.5/15.mkv)
+<img width="1280" height="671" alt="14" src="https://github.com/user-attachments/assets/a1aa58dc-3611-4eef-8823-658aff9a9241" />
 
 # Exercice 2 - Gestion d'un zoo avec tableau dynamique d'animaux
 
