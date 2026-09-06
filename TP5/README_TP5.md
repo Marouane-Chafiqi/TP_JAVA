@@ -17,6 +17,9 @@
 
 <img width="1280" height="671" alt="14" src="https://github.com/user-attachments/assets/a1aa58dc-3611-4eef-8823-658aff9a9241" />
 
+https://github.com/user-attachments/assets/f901c715-ebf6-449d-8aea-a3b3aa554554
+
+
 # Exercice 2 - Gestion d'un zoo avec tableau dynamique d'animaux
 
 - On modélise plusieurs types d'animaux qui partagent des caractéristiques communes, mais qui ont chacun un comportement spécifique.
@@ -25,19 +28,20 @@
 - La classe Zoo garde un tableau d'animaux qui s'agrandit automatiquement lorsqu'il devient plein, exactement comme dans les exercices précédents sur les tableaux dynamiques.
 - Le point intéressant ici est que le tableau du zoo est de type Animal, mais qu'il peut contenir n'importe lequel des trois sous-types. Quand on affiche un animal, c'est toujours la bonne version de l'affichage (celle du type réel de l'objet) qui est utilisée automatiquement.
 
-![alt text](2.png)
+<img width="1280" height="672" alt="2" src="https://github.com/user-attachments/assets/46e3e2fc-1055-445a-80c4-1374d8f94e0d" />
 
-![alt text](21.png)
+<img width="1280" height="668" alt="21" src="https://github.com/user-attachments/assets/857e3c86-98e3-467a-a627-a40cc31af1aa" />
 
-![alt text](22.png)
+<img width="1280" height="669" alt="22" src="https://github.com/user-attachments/assets/f236e27f-bb48-420e-825d-41d9710f63b8" />
 
-![alt text](23.png)
+<img width="1280" height="672" alt="23" src="https://github.com/user-attachments/assets/e82b48aa-5ca4-4712-90f3-0425bba34a6d" />
 
-![alt text](24.png)
+<img width="1280" height="674" alt="24" src="https://github.com/user-attachments/assets/afecae75-9669-428d-a798-4efb0c89b5f1" />
 
-![alt text](25.png)
+<img width="1280" height="672" alt="25" src="https://github.com/user-attachments/assets/e7861bf1-bbf4-4313-a4cf-546c5ce895d6" />
 
-[text](../../../../../Desktop/TP_JAVA/TP.5/26.mkv)
+https://github.com/user-attachments/assets/b4e9c2b6-3f5a-4572-8afd-31e4088c0739
+
 
 # Exercice 3 - Parc de véhicules avec héritage et composition
 
@@ -49,25 +53,26 @@
 - Plutôt que de bloquer le programme avec une erreur si le carburant est insuffisant, la méthode affiche simplement un message d'avertissement et n'effectue pas le trajet.
 - La classe Flotte regroupe tous les véhicules dans un tableau dynamique et peut calculer des statistiques globales, comme la distance totale parcourue par l'ensemble du parc.
 
-![alt text](3.png)
+<img width="1280" height="671" alt="3" src="https://github.com/user-attachments/assets/a590ad0a-1549-4a03-a709-23a80fe414fc" />
 
-![alt text](31.png)
+<img width="1280" height="669" alt="31" src="https://github.com/user-attachments/assets/67ef6a4d-4abd-4cc7-9237-3963aefdcbc5" />
 
-![alt text](32.png)
+<img width="1280" height="666" alt="32" src="https://github.com/user-attachments/assets/819bd711-0ed9-4d1b-a20d-66edd7547d39" />
 
-![alt text](33.png)
+<img width="1280" height="676" alt="33" src="https://github.com/user-attachments/assets/e594aa7b-2cc1-4c36-a484-fbc781517f95" />
 
-![alt text](34.png)
+<img width="1280" height="670" alt="34" src="https://github.com/user-attachments/assets/a86e8557-18d8-4dc7-abe8-ef0884ed6727" />
 
-![alt text](38.png) 
+<img width="1280" height="672" alt="35" src="https://github.com/user-attachments/assets/996c4ffc-cc51-4332-86ee-e63882145311" />
 
-![alt text](35.png) 
+<img width="1280" height="673" alt="36" src="https://github.com/user-attachments/assets/b13719b0-951b-4fb6-9e3d-77d17d049bed" />
 
-![alt text](36.png) 
+<img width="1280" height="673" alt="37" src="https://github.com/user-attachments/assets/88428d35-b629-4357-9584-23b8a167c7e0" />
 
-![alt text](37.png)
+<img width="1280" height="673" alt="38" src="https://github.com/user-attachments/assets/b889740c-807b-4d0b-8479-d7b1232b69b6" />
 
-[text](../../../../../Desktop/TP_JAVA/TP.5/39.mkv)
+https://github.com/user-attachments/assets/cbc48a36-513f-4a25-bac4-60ec2e90211b
+
 
 # Exercice 4 - Gestion d'une bibliothèque
 
@@ -78,18 +83,21 @@
 - La classe Bibliotheque gère une collection de documents dans un tableau de taille fixe. Elle permet d'ajouter un document tant qu'il reste de la place, de le retirer, de le retrouver à partir de son numéro d'enregistrement, d'afficher tous les documents, et de lister les auteurs présents.
 - Le programme de test propose un menu interactif : demander la capacité de la bibliothèque, l'initialiser avec deux documents de départ, puis proposer d'ajouter, d'afficher, de supprimer ou de lister les auteurs, jusqu'à ce que l'utilisateur choisisse de quitter.
 
-![alt text](41.png) 
+<img width="1278" height="671" alt="4" src="https://github.com/user-attachments/assets/a724fbfc-ef36-4daf-aca9-297541396e74" />
 
-![alt text](42.png) 
+<img width="1280" height="672" alt="41" src="https://github.com/user-attachments/assets/2f8ecc0d-62c0-4a0e-9855-3c1f27f6773d" />
 
-![alt text](43.png) 
+<img width="1280" height="668" alt="42" src="https://github.com/user-attachments/assets/4a9cdfe8-cc51-48c7-8df9-76af9e53a417" />
 
-![alt text](44.png) 
+<img width="1280" height="670" alt="43" src="https://github.com/user-attachments/assets/4be24ec7-a818-44b3-a4d4-77becc086193" />
 
-![alt text](45.png) 
+<img width="1280" height="673" alt="44" src="https://github.com/user-attachments/assets/0b7c1145-04e7-43d6-ae02-260f87d685b7" />
 
-![alt text](46.png) 
+<img width="1280" height="669" alt="45" src="https://github.com/user-attachments/assets/0b886821-3a6a-4402-9fc3-75cfc70002c5" />
 
-![alt text](47.png)
+<img width="1280" height="674" alt="46" src="https://github.com/user-attachments/assets/73503567-3b68-4ff5-9d21-9220c60931e5" />
 
-[text](../../../../../Desktop/TP_JAVA/TP.5/48.mkv)
+<img width="1280" height="675" alt="47" src="https://github.com/user-attachments/assets/8badf223-4939-4e94-827f-2bbb857c9aa4" />
+
+https://github.com/user-attachments/assets/b1f5842d-ce4e-4782-bfb0-4739a544abf6
+
